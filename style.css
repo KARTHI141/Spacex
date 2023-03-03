@@ -1,0 +1,68 @@
+body{
+	background-image: url("https://media.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy-downsized-large.gif");
+	color: #EA8FEA;
+	background-size: cover;
+		width: 100px;
+		margin-top: 20px;
+	margin-left: 80px;
+	margin-right: 70px;
+text-align: center;
+font-size: 80px;
+font-family: monospace;
+}
+.space{
+	width: 200px;
+	height: auto;
+	margin-left: 50px;
+	margin-right: 50px;
+	text-shadow: 5px 5px lightgrey;
+
+}
+button{
+	font-family: monospace;
+	border: 2px solid black;
+	width: 100px;
+	padding: 10px;
+	background: white;
+	margin: 10px auto;
+	border: none;
+	font-weight: bolder;
+	
+	
+}
+.but{
+	padding: 10px;
+	margin: 1px 200px 100px 50px;
+	width: 150px;
+}
+@font face{
+	src:url(space.otf);
+	font-family: spaced;
+}
+.uni{
+	border: black;
+	
+	font-family: inherit;
+	padding: 5px 10px;
+	opacity: 1;
+	
+}
+.under{
+	color: red;
+	border-bottom: 4px solid white;
+}
+#main-logo{
+	width: 500px;
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+text-align: center;
+}
+#logo{
+	width: 100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#fo{
+	text-shadow: 4px 4px 4px white;
+}
